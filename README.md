@@ -48,7 +48,7 @@ An env file can be provided to the binary for runtime process ingestion; e.g:
 
 ## Running via Docker
 
-Container can be built via running `make build-docker`.
+Container can be built via running `make docker-build`.
 
 ## Commitment Schemas
 
